@@ -1,5 +1,8 @@
 # dev-setup
 
+Wenn du beim Programmieren auf einem Windows-PC so richtig durchstarten willst, kannst du mein dev-setup übernehmen. Es ermöglicht die Bedienung von VS-Code and GoogleChrome per Tastatur.
+
+
 Set the windows powershell as default profile für terminal sessions:
 
 Press Ctrl + Shift + P -> Type and press enter: Select default profile -> Select the 'Powershell' entry and press enter.
