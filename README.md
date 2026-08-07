@@ -43,6 +43,8 @@ Strg + ö --> Toggle terminal visibility
 
 Strg + Shift + ö --> create new terminal
 
+Strg + c --> quit process (after starting one)
+
 Strg + Alt + ArrowUp/ArrowDown --> navigate terminals
 
 Strg + Alt + Backspace --> remove terminal
@@ -50,11 +52,11 @@ Strg + Alt + Backspace --> remove terminal
 
 # Dateien *über den Explorer* suchen und öffnen ( Blau )
 
-## Workflow Nr. |||
+## Workflow Nr. ||
 
 Strg + Shift + e --> Open explorer
 
-ArrowUp/ArrowDown --> navigate explorer
+ArrowUp/ArrowDown --> navigate
 
 Enter --> Open
 
@@ -65,24 +67,24 @@ Strg + k --> Shift + Enter --> pin and unpin
 
 # Dateien *direkt* suchen und öffnen ( Gelb )
 
-## Workflow Nr. ||
+## Workflow Nr. |||
 
 Strg + p --> Search files by name
 
-ArrowUp/ArrowDown --> navigate explorer
+ArrowUp/ArrowDown --> navigate
 
 Enter --> Open
 
 
-# Den Editor bedienen
+# Den Editor bedienen ( Grün )
 
-## Workflow Nr. V
+## Workflow Nr. ||||
 
 Strg + Shift + f --> maximize editor
 
 Strg + Shift + ArrowLeft/ArrowRight --> navigate tabs
 
-ArrowUp/ArrowDown --> navigate one line
+ArrowUp/ArrowDown --> move cursor
 
 Strg + Bild ↑/Bild ↓ --> jump 10 lines
 
@@ -91,6 +93,30 @@ Strg + Alt + Bild ↑/Bild ↓ --> jump 30 lines
 Strg + Pos ¹/Ende --> jump to top/end
 
 
+# Sonstiges (ab hier beginnen so langsam die Browserbefehle)
+
+## Workflow Nr. V
+
+Strg + +/- --> Schriftgröße ändern
+
+Alt + Tabulator --> zwischen Programmfenstern navigieren (vorzugsweise aber optional mit ArrowLeft/ArrowRight das Programmfenster wählen)
+
+Strg + Shift + ArrowLeft/ArrowRight --> navigate tabs
+
+ArrowUp/ArrowDown --> scrollen
+
+Bild ↑/Bild ↓ --> schrittweise scrollen
+
+Strg + Pos ¹/Ende
+
+ä --> Vimium befehlen Alle verfügbaren Elemente zu markieren
+
+XYZ --> das entsprechende Vimium-Element "klicken" lassen
+
+Alt + ArrowLeft/ArrowRight --> Seite zurück/vorwärts navigieren
 
 
-Stelle sicher dass du Alle Schritte abschließt.
+
+
+
+Stelle sicher dass du Alle Schritte abschließt. Zum Anordnen von Programmfenstern oder Tabs und etc. nutzt man die Maus.
