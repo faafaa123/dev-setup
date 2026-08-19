@@ -115,7 +115,7 @@ XYZ --> das entsprechende Vimium-Element "klicken" lassen
 
 Alt + ArrowLeft/ArrowRight --> Seite zurück/vorwärts navigieren
 
-Strg + k --> Shift + i --> show hint
+Strg + k + i --> show hint
 
 
 
