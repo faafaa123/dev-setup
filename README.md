@@ -115,8 +115,8 @@ XYZ --> das entsprechende Vimium-Element "klicken" lassen
 
 Alt + ArrowLeft/ArrowRight --> Seite zurück/vorwärts navigieren
 
+Strg + k --> Shift + i --> show hint
 
 
 
-
-Stelle sicher dass du Alle Schritte abschließt. Zum Anordnen von Programmfenstern oder Tabs und etc. nutzt man die Maus.
+Stelle sicher dass du Alle Schritte abschließt. Zum Anordnen von Programmfenstern oder Tabs und etc. nutzt man weiterhin die Maus.
