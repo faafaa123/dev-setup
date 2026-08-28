@@ -117,6 +117,8 @@ Alt + ArrowLeft/ArrowRight --> Seite zurück/vorwärts navigieren
 
 Strg + k + i --> show hint
 
+Strg + . --> show fixes
+
 
 
 Stelle sicher dass du Alle Schritte abschließt. Zum Anordnen von Programmfenstern oder Tabs und etc. nutzt man weiterhin die Maus.
